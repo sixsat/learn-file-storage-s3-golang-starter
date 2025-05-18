@@ -3,5 +3,6 @@ out
 .env
 assets/
 samples/
+tmp/
 
 .DS_Store
